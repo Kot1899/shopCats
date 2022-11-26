@@ -5,3 +5,7 @@ controllers:
 kernel:
     resource: ../../src/Kernel.php
     type: annotation
+
+#test_action:
+ #   path: /test/test
+  #  controller: App\Controller\testController::test
