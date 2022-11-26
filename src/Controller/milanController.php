@@ -21,7 +21,7 @@ class milanController
      */
     function playerIbra()
     {
-        echo 'hello from Ibraa1aa couch';
+        echo 'hello from Ibraa12222aa couch';
         die;
     }
 
