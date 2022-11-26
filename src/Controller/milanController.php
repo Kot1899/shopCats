@@ -21,7 +21,7 @@ class milanController
      */
     function playerIbra()
     {
-        echo 'hello from Ibra couch';
+        echo 'hello from Ibraaaa couch';
         die;
     }
 
